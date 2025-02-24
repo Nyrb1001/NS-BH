@@ -33,4 +33,4 @@ Chem = [ 0.   ,  0.025,  0.05 ,  0.075,  0.1  ,  0.125,  0.15 ,  0.175,
        19.75 , 20.   ] .
 ```
 
-Each data entry is in %.6e formatting, with single spaces between coloumns. The units of the reaction rates are [$cm^3 mol^{-1} s^{-1}$]
+Each data entry is in %.6e formatting, with single spaces between coloumns. The units of the reaction rates are $cm^3 mol^{-1} s^{-1}$
